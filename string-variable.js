@@ -7,7 +7,7 @@ username = 'Molly';
 message = 'See our upcoming range';
 
 // Get the element with an id of name.
-var e1Name = document.getElemntById('name');
+var e1Name = document.getElementById('name');
 // Replace the content of this element.
 e1Name.textContent = username;
 
